@@ -15,3 +15,5 @@ int main()
     printf("Die Summe bis Grenze %i beträgt %i\n",x,summe);
 
     return 0;
+
+}
